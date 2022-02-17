@@ -4,6 +4,7 @@
 Step 1: Create a file data.csv with an Emails like this
 
 | Email |
+|-------|
 | abc@def@ghi.com |
 | xyz@abc.com |
 | bbc@gef.com |
